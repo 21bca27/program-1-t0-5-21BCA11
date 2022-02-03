@@ -18,3 +18,4 @@
 	}
 	getch();
 }
+// nice and simple
